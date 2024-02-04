@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aditiaravind/aditiaravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/ShrawanSai/">![Profile GIF](./assets/profile_presentation.gif)</a>
 
-<!-- Social icons section -->
+<!-- Social icons section 
 <h1 align="center"> My Social Media: </h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/aditiaravind">
@@ -31,6 +29,7 @@ Here are some ideas to get you started:
 </h1>
 
 <hr>
+ -->
 
 <!-- Description about me -->
 <h2 align="center">  About me  </h2>
@@ -43,9 +42,18 @@ Contact me for collaborations, I'd love to work on cool projects and make new fr
 
 <!--<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/> -->
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/aditiaravind">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    </a>
+    <a href="mailto:aravinds.aditi@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
+  </p>
+  
 - 🔭 &nbsp; I’m currently working on **Investigating Divergent Visual Perception in Autism Mouse Models**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects and Brain Data Challenges
-- 🤔 I’m looking for help with **Efficient algorithm for calculating Mutual Information as an Association Matrix**
+- 🤔 &nbsp; I’m looking for help with **Efficient algorithm for calculating Mutual Information as an Association Matrix**
 - 💬 &nbsp; Ask me about **Fourier Transforms** (if you never want me to stop talking)
 - 🎾 &nbsp; In my free time, I love playing Squash
 
