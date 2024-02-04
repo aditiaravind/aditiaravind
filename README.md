@@ -32,7 +32,6 @@ Here are some ideas to get you started:
  -->
 
 <!-- Description about me -->
-<h2 align="center">  About me  </h2>
 
 Hey there! <br />
 I am <b>Aditi Aravind</b> from <strong>Chennai, India</strong><br />
@@ -58,8 +57,6 @@ Contact me for collaborations, I'd love to work on cool projects and make new fr
 - 🎾 &nbsp; In my free time, I love playing Squash
 
 
-<br><br>
-<br>
 <!-- GitHub stats section 
 
 ## Github stats
@@ -73,32 +70,32 @@ Contact me for collaborations, I'd love to work on cool projects and make new fr
 </p>
 -->
 
-<br><br><br>
-<h1 align="center"> Languages/Frameworks I'm good at: </h1>
-<p align="center">
-<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
-  <code><a href="https://www.mathworks.in/"><img alt="MATLAB" title="MATLAB" src="./assets/matlab.png" height="42"></a></code>
-  <code><a href="https://pytorch.org/"><img alt="Pytorch" title="Pytorch" src="./assets/pytorch.png" height="42"></a></code>
-  <code><a href="https://www.suite2p.org/"><img alt="Suite2p" title="Suite2p" src="./assets/suite2p.png" height="42"></a></code>
-  <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./assets/tf.png" height="42"></a></code>
-  <code><a href=""><img alt="Github" title="Github" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./assets/streamlit.png" height="42"></a></code>
-  <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="42"></a></code>
+<br>
+<h1 align="left"> Languages/Frameworks I'm good at: </h1>
+<p align="left">
+<code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="52"></a></code>
+  <code><a href="https://www.mathworks.in/"><img alt="MATLAB" title="MATLAB" src="./assets/matlab.png" height="52"></a></code>
+  <code><a href="https://pytorch.org/"><img alt="Pytorch" title="Pytorch" src="./assets/pytorch.png" height="52"></a></code>
+  <code><a href="https://www.suite2p.org/"><img alt="Suite2p" title="Suite2p" src="./assets/suite2p.png" height="52"></a></code>
+  <code><a href="https://www.tensorflow.org/"><img alt="Tensorflow" title="Tensorflow" src="./assets/tf.png" height="52"></a></code>
+  <code><a href=""><img alt="Github" title="Github" src="./assets/github.png" height="52"></a></code>
+  <code><a href="https://streamlit.io/"><img alt="Streamlit" title="Streamlit" src="./assets/streamlit.png" height="52"></a></code>
+  <code><a href="https://plotly.com/dash/"><img alt="Plotly Dash" title="Plotly Dash" src="./assets/dash_plotly.png" height="52"></a></code>
 </p>
 <br>
-<h1 align="center"> Environments I work with: </h1>
-<p align="center">
-  <code><a href="https://www.anaconda.com/"><img alt="Anaconda" title="Anaconda" src="./assets/Anaconda_Logo.png" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://jupyter.org/"><img alt="Jupyter Lab" title="Jupyter Lab" src="./assets/jupyter lab.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
+<h1 align="left"> Environments I work with: </h1>
+<p align="left">
+  <code><a href="https://www.anaconda.com/"><img alt="Anaconda" title="Anaconda" src="./assets/Anaconda_Logo.png" height="52"></a></code>
+  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="52"></a></code>
+  <code><a href="https://jupyter.org/"><img alt="Jupyter Lab" title="Jupyter Lab" src="./assets/jupyter lab.png" height="52"></a></code>
+  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="52"></a></code>
 </p>
 <br>
 
 <br>
 
-<h1 align="center"> My Certifications and courses: </h1>
-<p align="center">
+<h1 align="left"> My Certifications and courses: </h1>
+<p align="left">
   <ul>
   <li>Animal Handling Certification (Institute of Laboratory Animal Sciences, UZH, 10/2021) : ‘Introductory course in laboratory animal science for persons conducting animal experiments Species: Mice and Rats’</li>
   <li>'Sequence alignment & Mutation analysis' by BioNEST laboratory at VIT (2021)</li>
