@@ -41,9 +41,7 @@ I have a masters from ETH Zurich and a bachelors from VIT, Vellore, both in <b> 
 I am passionate about <b> Neuroscience, Human-Computer Interfaces and Data Science </b> <br>
 Contact me for collaborations, I'd love to work on cool projects and make new friends!<br/><br/> 
 
-<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/>
-
-###  More About Me:
+<!--<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/> -->
 
 - 🔭 &nbsp; I’m currently working on **Investigating Divergent Visual Perception in Autism Mouse Models**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects and Brain Data Challenges
