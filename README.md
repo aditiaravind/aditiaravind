@@ -49,7 +49,11 @@ Contact me for collaborations, I'd love to work on cool projects and make new fr
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
-  
+
+Literally me, rn <br>
+<img src="assets/me_github.jpg" alt="My Image" width="300">
+
+
 - 🔭 &nbsp; I’m currently working on **Investigating Divergent Visual Perception in Autism Mouse Models**
 - 🤝 &nbsp; I’m looking to collaborate on Open Source Projects and Brain Data Challenges
 - 🤔 &nbsp; I’m looking for help with **Efficient algorithm for calculating Mutual Information as an Association Matrix**
