@@ -37,6 +37,7 @@ Hey there! <br />
 I am <b>Aditi Aravind</b> from <strong>Chennai, India</strong><br />
 I have a masters from ETH Zurich and a bachelors from VIT, Vellore, both in <b> Biomedical Engineering </b> <br>
 I am passionate about <b> Neuroscience, Human-Computer Interfaces and Data Science </b> <br>
+Currently working on Functional Connectivity in Biological and Artificial Spiking Neural Networks <br>
 Contact me for collaborations, I'd love to work on cool projects and make new friends!<br/><br/> 
 
 <!--<img align="right" alt="GIF" src="./assets/dance_ascii.gif" width="450vw"/> -->
